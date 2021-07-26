@@ -1,0 +1,48 @@
+.DraftEditor-root {
+ 
+}
+
+.box {
+  padding: 10px;
+}
+
+.btn {
+  margin-top: 10px;
+}
+
+.editor {
+  border: 1px solid rgb(177, 177, 177);
+  border-radius: 10px;
+  padding: 5px;
+}
+
+.tips {
+  color: gainsboro;
+  text-align: right;
+}
+
+.mention {
+  color: rgba(98, 177, 254, 1.0);
+  direction: ltr;
+  unicodeBidi: bidi-override;
+}
+
+.urlBox {
+  display: flex;
+  gap: 5px;
+  margin-bottom: 10px;
+}
+
+.urlSpan {
+  padding: 2px 5px;
+  border: 1px solid rgb(189, 188, 188);
+  background-color: rgb(214, 214, 214);
+  color: rgb(73, 73, 73);
+  border-radius: 2px;
+  cursor: pointer;
+  user-select: none;
+}
+
+.url {
+  color: rgb(46, 46, 241);
+}
